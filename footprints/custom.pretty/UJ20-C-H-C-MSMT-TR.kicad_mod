@@ -139,36 +139,32 @@
 			)
 		)
 	)
-	(pad "" thru_hole oval
+	(pad "" np_thru_hole oval
 		(at -5.6 -2.75)
 		(size 1 1.6)
 		(drill oval 0.6 1.2)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F&B.Cu" "*.Mask")
 		(uuid "b2dfc551-7dbc-4071-9460-2f77853a1554")
 	)
-	(pad "" thru_hole oval
+	(pad "" np_thru_hole oval
 		(at -5.6 1.25)
 		(size 1 1.9)
 		(drill oval 0.6 1.5)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F&B.Cu" "*.Mask")
 		(uuid "42fef95d-a0bc-4367-9980-272919a5f6c6")
 	)
-	(pad "" thru_hole oval
+	(pad "" np_thru_hole oval
 		(at 5.6 -2.75)
 		(size 1 1.6)
 		(drill oval 0.6 1.2)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F&B.Cu" "*.Mask")
 		(uuid "fb30b1ab-9042-4dc5-aaaf-7e1142156b99")
 	)
-	(pad "" thru_hole oval
+	(pad "" np_thru_hole oval
 		(at 5.6 1.25)
 		(size 1 1.9)
 		(drill oval 0.6 1.5)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F&B.Cu" "*.Mask")
 		(uuid "2120ce75-3b07-42bf-b0af-a26aacf2247b")
 	)
 	(pad "A1" smd roundrect
